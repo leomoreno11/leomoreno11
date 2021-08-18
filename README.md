@@ -1,8 +1,7 @@
 [![card](https://github-readme-stats.vercel.app/api?username=leomoreno11&theme=default)](https://github.com/leomoreno11/)
 
-```md
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno11&hide=html&layout=compact&theme=default)](https://github.com/leomoreno11/)
-```
+
 
 
 <!---

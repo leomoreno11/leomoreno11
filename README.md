@@ -1,6 +1,6 @@
 ## Hi! Welcome to my profile =)
 
-I'm a brazillian data sciente student and cybersecurity hobbyist. :space_invader:
+I'm a brazillian Data Science student and Cybersecurity hobbyist. :space_invader:
 
 Living in São Paulo. :brazil:
 

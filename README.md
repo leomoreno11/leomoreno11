@@ -1,7 +1,9 @@
 ## Hi! Welcome to my profile =)
 
 I'm a brazillian data sciente student and cybersecurity hobbyist. :space_invader:
+
 Currently living in São Paulo. :brazil:
+
 Currently working at Accenture as a Jr. Data Engineer =) 
 
 [![card](https://github-readme-stats.vercel.app/api?username=leomoreno11&theme=dark)](https://github.com/leomoreno11/)

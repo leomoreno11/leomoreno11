@@ -9,6 +9,7 @@ Working at Accenture as a Jr. Data Engineer =)
 Currently working with:
 
 https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white
+
 https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 
 

@@ -10,6 +10,7 @@ Currently working with:
 
 ![image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=leomoreno11&theme=dark)](https://github.com/leomoreno11/)
@@ -20,6 +21,7 @@ Currently working with:
 leomoreno11/leomoreno11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
+![image]()
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno11&hide=html&layout=compact&theme=dark)](https://github.com/leomoreno11/)
 
 --->

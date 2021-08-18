@@ -2,9 +2,9 @@
 
 I'm a brazillian data sciente student and cybersecurity hobbyist. :space_invader:
 
-Currently living in São Paulo. :brazil:
+Living in São Paulo. :brazil:
 
-Currently working at Accenture as a Jr. Data Engineer =) 
+Working at Accenture as a Jr. Data Engineer =) 
 
 [![card](https://github-readme-stats.vercel.app/api?username=leomoreno11&theme=dark)](https://github.com/leomoreno11/)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno11&hide=html&layout=compact&theme=dark)](https://github.com/leomoreno11/)

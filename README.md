@@ -18,7 +18,8 @@ Contact me on:
 --->
 
 [![card](https://github-readme-stats.vercel.app/api?username=leomoreno11&theme=dark)](https://github.com/leomoreno11/)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno11&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=leomoreno11&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 

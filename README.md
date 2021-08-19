@@ -13,6 +13,7 @@ Currently working with:
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 PC Specs:
+
 ![image](https://img.shields.io/badge/AMD-Radeon_RX_580_8gb-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![image](https://img.shields.io/badge/AMD-R5_1600AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 

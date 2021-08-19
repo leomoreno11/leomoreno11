@@ -12,11 +12,6 @@ Currently working with:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-PC Specs:
-
-![image](https://img.shields.io/badge/AMD-Radeon_RX_580_8gb-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![image](https://img.shields.io/badge/AMD-R5_1600AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
 <!---
 Contact me on:
 
@@ -37,6 +32,12 @@ You can click the Preview link to take a look at your changes.
 [![card](https://github-readme-stats.vercel.app/api?username=leomoreno11&theme=dark)](https://github.com/leomoreno11/)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511977733418)
+
+PC Specs:
+
+![image](https://img.shields.io/badge/AMD-Radeon_RX_580_8gb-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![image](https://img.shields.io/badge/AMD-R5_1600AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
 
 ![image]()
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno11&hide=html&layout=compact&theme=dark)](https://github.com/leomoreno11/)

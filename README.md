@@ -11,7 +11,7 @@ Currently working with:
 ![image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img2.gratispng.com/20180715/pkt/kisspng-microsoft-sql-server-computer-icons-oracle-corpora-sql-logo-transparent-5b4ad3449a85c4.4045482815316304046329.jpg)
+
 
 <!---
 Contact me on:

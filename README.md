@@ -12,9 +12,8 @@ Currently working with:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png" alt="drawing" width="200"/>
+<img src="https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png" alt="drawing" width="20"/>
 
-![image](https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png)
 <!---
 Contact me on:
 

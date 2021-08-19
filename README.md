@@ -4,7 +4,7 @@ I'm a brazillian Data Science student and Cybersecurity hobbyist. :space_invader
 
 Living in São Paulo. :brazil:
 
-Working at Accenture as a Jr. Data Engineer =) 
+Working at Accenture as a Jr. Data Engineer =) <img src="https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png" alt="drawing" width="50"/>
 
 Currently working with:
 
@@ -12,7 +12,6 @@ Currently working with:
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png" alt="drawing" width="20"/>
 
 <!---
 Contact me on:

@@ -18,6 +18,8 @@ Contact me on:
 --->
 
 [![card](https://github-readme-stats.vercel.app/api?username=leomoreno11&theme=dark)](https://github.com/leomoreno11/)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno11&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 Contact me on:

@@ -11,6 +11,10 @@ Currently working with:
 ![image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+PC Specs:
+https://img.shields.io/badge/AMD-Radeon_RX_580_8gb-ED1C24?style=for-the-badge&logo=amd&logoColor=white
+https://img.shields.io/badge/AMD-R5_1600AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white
 <!---
 Contact me on:
 

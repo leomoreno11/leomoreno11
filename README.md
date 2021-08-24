@@ -16,6 +16,7 @@ Working at Accenture as a Jr. Data Engineer =) <img src="https://www.accenture.c
   - Microsoft DP-900
   - Apache Spark
   - Hadoop ecosystem
+  - Cloud data solutions
 
 ##  GitHub Stats =D
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=leomoreno11&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)

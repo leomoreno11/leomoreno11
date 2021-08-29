@@ -6,7 +6,9 @@ Living in São Paulo. :brazil:
 
 Working at Accenture as a Jr. Data Engineer =) <img src="https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png" alt="drawing" width="40"/>
 
-Microsoft DP-900 certified =D <img src="https://raw.githubusercontent.com/leomoreno11/imagens_readme/main/azure-data-fundamentals-600x600.png?token=AQDWOY2P2ZITP5AKU5XFCFLBFQAYY" alt="drawing" width="40"/>
+Microsoft DP-900 certified =D 
+
+<img src="https://raw.githubusercontent.com/leomoreno11/imagens_readme/main/azure-data-fundamentals-600x600.png?token=AQDWOY2P2ZITP5AKU5XFCFLBFQAYY" alt="drawing" width="100"/>
 
 
 ## Currently working with:

@@ -6,6 +6,9 @@ Living in São Paulo. :brazil:
 
 Working at Accenture as a Jr. Data Engineer =) <img src="https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png" alt="drawing" width="40"/>
 
+Microsoft DP-900 certified =D <img src="https://raw.githubusercontent.com/leomoreno11/imagens_readme/main/azure-data-fundamentals-600x600.png?token=AQDWOY2P2ZITP5AKU5XFCFLBFQAYY" alt="drawing" width="40"/>
+
+
 ## Currently working with:
 
 ![image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
@@ -13,7 +16,6 @@ Working at Accenture as a Jr. Data Engineer =) <img src="https://www.accenture.c
 ![image](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## Currently studying:
-  - Microsoft DP-900
   - Apache Spark
   - Hadoop ecosystem
   - Cloud data solutions

@@ -8,9 +8,6 @@ Working at Accenture as a Jr. Data Engineer =) <img src="https://www.accenture.c
 
 Microsoft DP-900 certified =D 
 
-<img src="https://raw.githubusercontent.com/leomoreno11/imagens_readme/main/azure-data-fundamentals-600x600.png?token=AQDWOY2P2ZITP5AKU5XFCFLBFQAYY" alt="drawing" width="150"/>
-
-
 ## Currently working with:
 
 ![image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)

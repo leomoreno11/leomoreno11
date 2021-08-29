@@ -19,7 +19,7 @@ Microsoft DP-900 certified =D
   - Hadoop ecosystem
   - Cloud data solutions
 
-##  GitHub Stats =D
+##  GitHub Stats and certifications =D
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=leomoreno11&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <img src="https://raw.githubusercontent.com/leomoreno11/imagens_readme/main/azure-data-fundamentals-600x600.png?token=AQDWOY2P2ZITP5AKU5XFCFLBFQAYY" alt="drawing" width="150"/>
 

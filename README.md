@@ -1,3 +1,4 @@
+![grizzly-bear-background-hd-1920x1280-196052](https://user-images.githubusercontent.com/67594083/133906709-8441efbd-2c5b-4bbb-9dea-b8107895a534.jpg)
 ## Hi! Welcome to my profile =)
 
 I'm a 19 year old Brazilian, Data Science student and hobbyist in Cybersecurity. :space_invader:

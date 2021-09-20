@@ -21,7 +21,7 @@ Microsoft DP-900 certified =D
 
 ##  GitHub Stats and certifications =D
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=leomoreno11&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-<img src="https://github.com/leomoreno11/imagens_readme/blob/main/azure-data-fundamentals-600x600.png" alt="drawing" width="190"/>
+<img src="https://github.com/leomoreno11/imagens_readme/blob/main/azure-data-fundamentals-600x600.png" alt="drawing" width="180"/>
 
 
 

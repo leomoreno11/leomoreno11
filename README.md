@@ -1,12 +1,12 @@
-## Hi! Welcome to my profile =)
+## Hi! Welcome to my profile!
 
 I'm a 19 year old Brazilian, Data Science student and hobbyist in Cybersecurity. :space_invader:
 
 Living in São Paulo. :brazil:
 
-Working at Accenture as a Jr. Data Engineer =) <img src="https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png" alt="drawing" width="40"/>
+:computer: Working at Accenture as a Jr. Data Engineer <img src="https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png" alt="drawing" width="40"/>
 
-Microsoft DP-900 certified =D 
+Microsoft DP-900 certified.
 
 ## Currently working with:
 
@@ -18,12 +18,11 @@ Microsoft DP-900 certified =D
   - Apache Spark
   - Hadoop ecosystem
   - Cloud data solutions
+  - Google Cloud Plataform
 
-##  GitHub Stats and certifications =D
+##  GitHub Stats and certifications
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=leomoreno11&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <img src="https://github.com/leomoreno11/imagens_readme/blob/main/azure-data-fundamentals-600x600.png" alt="drawing" width="180"/>
-
-
 
 ##  Contact me on:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-moreno-ab54561a4/)
@@ -32,6 +31,8 @@ Microsoft DP-900 certified =D
 <!---
 leomoreno11/leomoreno11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+<img src="https://github.com/leomoreno11/estudos-2021/blob/main/teste/badge-gcp-professional-data-engineer.png" alt="drawing" width="180"/>
 
 [![card](https://github-readme-stats.vercel.app/api?username=leomoreno11&theme=dark)](https://github.com/leomoreno11/)
 

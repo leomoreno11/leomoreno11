@@ -18,7 +18,7 @@ Microsoft DP-900 certified.
   - Apache Spark
   - Hadoop ecosystem
   - Cloud data solutions
-  - Google Cloud Plataform
+  - Google Professional Data Engineer exam
 
 ##  GitHub Stats and certifications
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=leomoreno11&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)

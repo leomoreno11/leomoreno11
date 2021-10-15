@@ -1,6 +1,6 @@
 ## Hi! Welcome to my profile!
 
-I'm a 19 year old Brazilian, Data Science student and hobbyist in Cybersecurity. :space_invader:
+I'm a 19 year old Brazilian, Data Science student and hobbyist in Machine Learning and AI. :space_invader:
 
 Living in São Paulo. :brazil:
 

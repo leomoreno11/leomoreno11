@@ -31,7 +31,7 @@ Microsoft DP-900 certified.
 <!---
 leomoreno11/leomoreno11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
+aaaaaaaaaaaaaaaaa 100 days of code
 <img src="https://github.com/leomoreno11/estudos-2021/blob/main/teste/badge-gcp-professional-data-engineer.png" alt="drawing" width="180"/>
 
 [![card](https://github-readme-stats.vercel.app/api?username=leomoreno11&theme=dark)](https://github.com/leomoreno11/)

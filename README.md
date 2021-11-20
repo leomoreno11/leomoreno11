@@ -29,8 +29,17 @@
   
   
 <h2 align="center"> GitHub Stats :octocat:</h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leomoreno11&theme=dracula"/></p>
-  
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leomoreno11&theme=dracula"/>
+         <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+         <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+         <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+         <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
+         </p>
+         
+         
+
+
+ 
 
 
 <!---

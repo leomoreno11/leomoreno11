@@ -7,10 +7,10 @@
 <a href="mailto:lmorenogr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 
-  
+  <h3 align="center">Welcome to my profile! </h3>  
 <p align="center"><img src="https://camo.githubusercontent.com/cb9809a116e700426c84ac6e5a92b6631f6fe786f22c77a824e68d499f200687/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d32"/></p>
   
-  <h3 align="center">Welcome to my profile! </h3>
+
   <h4 align="center">I'm a 20 year old Brazilian Data Engineer Currently based in São Paulo :brazil: and working as a Data Engineer for Accenture <img src="https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png" alt="drawing" width="40"/> </h4>
   
 <p align="center"><img src="https://github.com/leomoreno11/imagens_readme/blob/main/azure-data-fundamentals-600x600.png" alt="drawing" width="135"/></p>

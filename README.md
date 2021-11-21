@@ -12,7 +12,7 @@
   
 
   <h4 align="center">I'm a 20 year old Brazilian Data Engineer, currently based in São Paulo :brazil:</h4> 
-         <h4 align="center">Working as a Data Engineer for @Accenture <img src="https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png" alt="drawing" width="40"/> </h4>
+         <h4 align="center">Working as a Data Engineer for @Accenture <img src="https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png" alt="drawing" width="15"/> </h4>
   
 <p align="center"><img src="https://github.com/leomoreno11/imagens_readme/blob/main/azure-data-fundamentals-600x600.png" alt="drawing" width="135"/></p>
 

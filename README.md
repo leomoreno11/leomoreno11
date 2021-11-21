@@ -31,10 +31,11 @@
   
 <h2 align="center"> GitHub Stats :octocat:</h2>
 <p align="center">
-         <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+         <img src="http://github-readme-streak-stats.herokuapp.com?user=leomoreno11&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+         </p>
+<p align="center">         
          <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
          <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
-         <img src="http://github-readme-streak-stats.herokuapp.com?user=leomoreno11&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
          </p>
          
          
@@ -49,7 +50,7 @@ aaaaaaaaaaaaaaaaa 100 days of code
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511977733418)
 
 PC Specs:
-
+         <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
 ![image](https://img.shields.io/badge/AMD-Radeon_RX_580_8gb-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![image](https://img.shields.io/badge/AMD-R5_1600AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 

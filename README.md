@@ -1,7 +1,7 @@
 
 <h1 align="center">- Hey there, I'm Leo! :wave: -</h1>
 
-<h3 align="center">Welcome to my profile! </h3> <h4 align="center">Here are some contacts :mailbox: </h4>
+<h3 align="center">Welcome to my profile! </h3> <h3 align="center">Here are some contacts :mailbox: </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-moreno-ab54561a4/">
          <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">

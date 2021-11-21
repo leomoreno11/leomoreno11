@@ -34,8 +34,7 @@
          <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
          <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
          <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
-         <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/3-stats.svg"/>
-         <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
+         <img src="http://github-readme-streak-stats.herokuapp.com?user=leomoreno11&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
          </p>
          
          
@@ -58,4 +57,8 @@ PC Specs:
 ![image]()
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno11&hide=html&layout=compact&theme=dark)](https://github.com/leomoreno11/)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/3-stats.svg"/>
+         <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
+
 --->

@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Leo! :wave:</h1>
+<h1 align="center">- Hey there, I'm Leo! :wave: -</h1>
 <h3 align="center">Welcome to my profile! </h3> 
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-moreno-ab54561a4/">

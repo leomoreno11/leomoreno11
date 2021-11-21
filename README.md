@@ -29,19 +29,15 @@
   
   
 <h2 align="center"> GitHub Stats :octocat:</h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leomoreno11&theme=dracula"/>
+<p align="center">
          <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
          <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
          <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+         <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/3-stats.svg"/>
          <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
          </p>
          
          
-
-
- 
-
-
 <!---
 leomoreno11/leomoreno11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -49,7 +45,7 @@ aaaaaaaaaaaaaaaaa 100 days of code
 <img src="https://github.com/leomoreno11/estudos-2021/blob/main/teste/badge-gcp-professional-data-engineer.png" alt="drawing" width="180"/>
 
 [![card](https://github-readme-stats.vercel.app/api?username=leomoreno11&theme=dark)](https://github.com/leomoreno11/)
-
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomoreno11&theme=dracula"/>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511977733418)
 
 PC Specs:

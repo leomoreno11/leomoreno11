@@ -12,10 +12,12 @@
   
 
   <h3 align="center">I'm a 20 year old Data Engineer, currently based in São Paulo :brazil:</h3> 
-         <h3 align="center">Working as a Data Engineer for @Accenture <img src="https://www.accenture.com/t00010101T000000Z__w__/br-pt/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png" alt="drawing" width="25"3>
+         <h3 align="center">Working as a Data Engineer for <img src="https://www.santander.com.br/sites/WPC_CMS/imagem/21-04-22_191531_M_logo-santander.svg" alt="drawing" width="115"3>
   
 <p align="center"><img src="https://github.com/leomoreno11/imagens_readme/blob/main/azure-data-fundamentals-600x600.png" alt="drawing" width="135"/></p>
 
+
+         
 
   <h2 align="center">Currently working with:computer:</h2>
 
@@ -48,7 +50,7 @@ aaaaaaaaaaaaaaaaa 100 days of code
 [![card](https://github-readme-stats.vercel.app/api?username=leomoreno11&theme=dark)](https://github.com/leomoreno11/)
          <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomoreno11&theme=dracula"/>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511977733418)
-
+<img src="https://raw.githubusercontent.com/leomoreno11/imagens_readme/main/logo-santander-icon-4096.png" alt="drawing" width="35"3>
 PC Specs:
          <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
 ![image](https://img.shields.io/badge/AMD-Radeon_RX_580_8gb-ED1C24?style=for-the-badge&logo=amd&logoColor=white)

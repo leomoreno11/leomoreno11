@@ -12,7 +12,7 @@
   
 
   <h3 align="center">I'm a 20 year old Data Engineer, currently based in São Paulo :brazil:</h3> 
-         <h3 align="center">Working as a Data Engineer for <img src="https://www.santander.com.br/sites/WPC_CMS/imagem/21-04-22_191531_M_logo-santander.svg" alt="drawing" width="115"3>
+         <h3 align="center">Working as a Data Engineer for <img src="https://www.santander.com.br/sites/WPC_CMS/imagem/21-04-22_191531_M_logo-santander.svg" alt="drawing" width="105"3>
   
 <p align="center"><img src="https://github.com/leomoreno11/imagens_readme/blob/main/azure-data-fundamentals-600x600.png" alt="drawing" width="135"/></p>
 

@@ -1,5 +1,5 @@
 
-<h1 align="center">- Hey there, I'm Leo! :wave: -</h1>
+<h1 align="center"> Hey there, I'm Leo! :wave: </h1>
 
 <h3 align="center">Welcome to my profile! </h3> <h3 align="center">Here are some contacts :mailbox: </h3>
 <p align="center">

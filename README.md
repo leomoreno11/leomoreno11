@@ -20,7 +20,7 @@
 
   <h2 align="center">Currently working with:computer:</h2>
 
-<p align="center"><img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>  <img src="https://camo.githubusercontent.com/1f2c2be3d5ab9eed63bfd658f9c465403e409fcfdcb7c133133d0616940c4452/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170616368655f537061726b2d4646464646463f7374796c653d666f722d7468652d6261646765266c6f676f3d617061636865737061726b266c6f676f436f6c6f723d23453335413136" /> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<p align="center"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>  <img src="https://camo.githubusercontent.com/1f2c2be3d5ab9eed63bfd658f9c465403e409fcfdcb7c133133d0616940c4452/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170616368655f537061726b2d4646464646463f7374796c653d666f722d7468652d6261646765266c6f676f3d617061636865737061726b266c6f676f436f6c6f723d23453335413136" /> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
 <h2 align="center"> Currently studying:pencil2: </h2>
@@ -55,7 +55,7 @@ PC Specs:
 ![image](https://img.shields.io/badge/AMD-Radeon_RX_580_8gb-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![image](https://img.shields.io/badge/AMD-R5_1600AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
-
+<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" /> 
 ![image]()
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno11&hide=html&layout=compact&theme=dark)](https://github.com/leomoreno11/)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)

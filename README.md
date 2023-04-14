@@ -25,14 +25,14 @@
 
 
   
-<h2 align="center"> GitHub Stats :octocat:</h2>
+<!-- <h2 align="center"> GitHub Stats :octocat:</h2>
 <p align="center">
          <img src="http://github-readme-streak-stats.herokuapp.com?user=leomoreno11&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
          </p>
 <p align="center">         
          <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
          <img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
-         </p>
+         </p> -->
          
          
 <!---

@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/green-to-black.png"/></p>
 <h3 align="center">
-<img width="150" src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/sassy-black.gif"> 
+<img width="320" src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/crow.gif"> 
          <h3 align="center">
                   hey there, I'm Leo! 👋
          </h3>

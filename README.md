@@ -1,5 +1,5 @@
 <h3 align="center">
-<img width="250" src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/sassy-black.gif"> 
+<img width="180" src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/sassy-black.gif"> 
          <h3 align="center">
                   Hey there, im Leo! 👋
          </h3>
@@ -20,6 +20,7 @@
     * 🦀 [rust](https://www.rust-lang.org/)
     * 📝 how to desing my own language!
     * 🥇 [microsoft dp-203 exam](https://learn.microsoft.com/en-us/certifications/exams/dp-203/)
+
 ## 💻 technologies I use
 - 🐍 python
 - 🍓 scala

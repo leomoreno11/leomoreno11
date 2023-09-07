@@ -13,7 +13,7 @@
 - 🇧🇷 born and based in [São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)
 - ♨️ working for [Santander](https://en.wikipedia.org/wiki/Banco_Santander) as a Data Engineer
 - 🧛‍♂️ pronouns are `he/him`
-- 📚 currently stuying more about
+- 📚 currently studying more about:
     - 🧮 [math and statistics](https://en.wikipedia.org/wiki/Statistics)
     - 💻 [compilers](https://en.wikipedia.org/wiki/Compiler)
     - 🦀 [rust](https://www.rust-lang.org/)
@@ -35,6 +35,6 @@
 - 🎲 table-top RPGs
     - btw, my main D&D character, Aekian, is my pfp. Kudos for [Bruna](https://instagram.com/lucipuurr_?igshid=MzRlODBiNWFlZA==) for making it for me 🖤
 - 🎸 some heavy music
-- ⛈️ rain and cold combo
+- ⛈️ rain-and-cold combo
 
 <p align="center"><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/black-to-green.png"/></p>

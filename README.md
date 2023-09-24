@@ -1,6 +1,6 @@
 <div align="center">
          <p align="center"><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/green-to-black.png"/></p>
-         <p align="center"><img width="320" src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/materials/crow.gif"/></p>
+         <p align="center"><img width="320" alt="Matthew recieving a head rub" src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/materials/crow.gif"/></p>
          <h3 align="center">hey there, I'm Leo! 👋</h3>
          <p align="center">I'm a 21-year-old computer science, statistics and (astro)physics lover</p>
          <blockquote> <i>“Computer science is no more about computers than astronomy is about telescopes” - Edsger Dijkstra</i> </blockquote>

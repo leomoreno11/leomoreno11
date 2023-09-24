@@ -1,13 +1,16 @@
 <p align="center"><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/green-to-black.png"/></p>
-<h3 align="center">
-<img width="320" src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/crow.gif"> 
+<p align="center"><img width="320" src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/materials/crow.gif"/></p>
+<div align="center">
          <h3 align="center">
                   hey there, I'm Leo! 👋
          </h3>
          <p align="center">
                   I'm a 21-year-old computer science, statistics and physics lover
          </p>
-</h3>
+</div>
+
+
+
 
 ## 🔭 about me
 - 🇧🇷 born and based in [São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)

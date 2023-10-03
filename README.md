@@ -15,7 +15,7 @@
     - 💻 [compilers](https://en.wikipedia.org/wiki/Compiler)
     - 🦀 [rust](https://www.rust-lang.org/)
     - 📝 how to design my own language!
-    - 🥇 [microsoft dp-203 exam](https://learn.microsoft.com/en-us/certifications/exams/dp-203/) ([I got it!!](https://learn.microsoft.com/api/credentials/share/en-us/LeonardoMoreno-9310/E5F1078CE707AA82?sharingId=48B8115A64A7D19E))
+    - 🥇 microsoft [dp-203](https://learn.microsoft.com/en-us/certifications/exams/dp-203/) exam ([I got it!!](https://learn.microsoft.com/api/credentials/share/en-us/LeonardoMoreno-9310/E5F1078CE707AA82?sharingId=48B8115A64A7D19E))
 
 ## 💻 technologies I use
 - 🐍 python

@@ -14,7 +14,7 @@
     - 🧮 [math and statistics](https://en.wikipedia.org/wiki/Statistics)
     - 💻 [compilers](https://en.wikipedia.org/wiki/Compiler)
     - 🦀 [rust](https://www.rust-lang.org/)
-    - 📝 how to design my own language!
+    - 🔶 [zig](https://ziglang.org/)
 
 ## 💻 technologies I use
 - 🐍 python

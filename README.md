@@ -15,14 +15,14 @@
     - 💻 [compilers](https://en.wikipedia.org/wiki/Compiler)
     - 🦀 [rust](https://www.rust-lang.org/)
     - 🔶 [zig](https://ziglang.org/)
-    - 🔵 [go](https://go.dev/)
+    - 🐹 [go](https://go.dev/)
 
 ## 💻 technologies I work with
 - 🐍 python
 - 🍓 scala
 - 🐚 shell
 - 🧰 sql
-- ❇️ spark
+- ✨️ spark
 - 🐘 hadoop ecossystem
 - ☁️ cloud based environments
 

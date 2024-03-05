@@ -15,8 +15,9 @@
     - 💻 [compilers](https://en.wikipedia.org/wiki/Compiler)
     - 🦀 [rust](https://www.rust-lang.org/)
     - 🔶 [zig](https://ziglang.org/)
+    - 🔵 [go](https://go.dev/)
 
-## 💻 technologies I use
+## 💻 technologies I work with
 - 🐍 python
 - 🍓 scala
 - 🐚 shell

@@ -8,13 +8,13 @@
 
 ## 🔭 about me
 - 🇧🇷 born and based in [São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)
-- 🌐 working for [Visa](https://en.m.wikipedia.org/wiki/Visa_Inc.) as a Data Engineer
+- 🌐 working for [Pluxee](https://en.m.wikipedia.org/wiki/Visa_Inc.](https://en.wikipedia.org/wiki/Sodexo)) as a Data Engineer
 - 🧛‍♂️ pronouns are `he/him`
 - 📚 currently studying more about:
     - 🧮 [math and statistics](https://en.wikipedia.org/wiki/Statistics)
     - 💻 [compilers](https://en.wikipedia.org/wiki/Compiler)
+    - 🏺 [containers](https://www.docker.com/resources/what-container/)
     - 🦀 [rust](https://www.rust-lang.org/)
-    - 🔶 [zig](https://ziglang.org/)
     - 🐹 [go](https://go.dev/)
 
 ## 💻 technologies I work with

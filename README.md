@@ -36,7 +36,7 @@
 
 <h2>🖤 i'm passionate about</h2>
 <ul>
-  <li>🐈‍⬛ cats and dogs! 🐕</li>
+  <li>🐈‍⬛ cats, dogs and corvids! 🐕</li>
   <li>📖 learning!</li>
   <li>🎲 table-top RPGs
     <ul>

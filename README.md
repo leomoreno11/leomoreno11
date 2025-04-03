@@ -47,6 +47,21 @@
   <li>⛈️ rain-and-cold combo</li>
 </ul>
 
+<h2>🔮 check out my repos</h2>
+<ul>
+  <li>☁️ AWS Snowflake + Airflow ETL process
+    <ul>
+      <li><a href="https://github.com/leomoreno11/aws_medallion_pipeline" target="_blank">aws_medallion_pipeline</a></li>
+    </ul>
+  <li>🥷 Nimbus: my GEIGEIGEIST Totem stealth split keyboard
+    <ul>
+      <li><a href="https://github.com/leomoreno11/nimbus" target="_blank">nimbus</a></li>
+    </ul>
+  <li>👨‍💻 My resume
+    <ul>
+      <li><a href="https://leomoreno11.github.io/resume/" target="_blank">github.io</a></li>
+    </ul>
+    
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/LeonardoMoreno-9310/E5F1078CE707AA82?sharingId=48B8115A64A7D19E" target="_blank">
     <img width="150" src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/materials/microsoft-certified-associate-badge.png" alt="Microsoft Certified Associate Badge" />

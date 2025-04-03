@@ -45,6 +45,7 @@
   </li>
   <li>🎸 some heavy music</li>
   <li>⛈️ rain-and-cold combo</li>
+  <li>🏃‍♂️ street running</li>
 </ul>
 
 <h2>🔮 check out my repos</h2>

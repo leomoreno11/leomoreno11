@@ -34,6 +34,7 @@
   <li>☁️ <a href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank">cloud based environments</a></li>
 </ul>
 
+<!--
 <h2>🖤 i'm passionate about</h2>
 <ul>
   <li>🐈‍⬛ cats, dogs and corvids! 🐕</li>
@@ -47,6 +48,7 @@
   <li>⛈️ rain-and-cold combo</li>
   <li>🏃‍♂️ street running</li>
 </ul>
+-->
 
 <h2>🔮 check out my repos</h2>
 <ul>

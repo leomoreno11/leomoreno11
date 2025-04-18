@@ -11,15 +11,12 @@
 <ul>
   <li>🇧🇷 brazilian (<abbr title="Portuguese - Brazil">pt-br</abbr> / <abbr title="English">en</abbr>) | born and based in <a href="https://en.wikipedia.org/wiki/S%C3%A3o_Paulo" target="_blank">São Paulo</a></li>
   <li>🧛‍♂️ pronouns: <i>he/him</i></li>
-  <li>❎ working for <a href="https://www.pluxeegroup.com/who-we-are/" target="_blank">Pluxee</a></li>
-  <li>📚 passionate and always studying more about:
-    <ul>
-      <li>🧮 <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank">math and statistics</a></li>
-      <li>💻 <a href="https://en.wikipedia.org/wiki/Compiler" target="_blank">compilers</a></li>
+  <li>❎ working for <a href="https://www.pluxeegroup.com/who-we-are/" target="_blank">Pluxee</a> as a Senior Data Engineer</li>
     </ul>
   </li>
 </ul>
 
+<!--
 <h2>💻 technologies in my toolbox</h2>
 <ul>
   <li>🐍 <a href="https://www.python.org/" target="_blank">python</a></li>
@@ -28,13 +25,19 @@
   <li>💾 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">sql</a></li>  
   <li>🦀 <a href="https://www.rust-lang.org/" target="_blank">rust</a></li>
   <li>🐹 <a href="https://go.dev/" target="_blank">go</a></li>
-  <li>💧 <a href="https://elixir-lang.org/" target="_blank">elixir</a></li>
   <li>✨️ <a href="https://en.wikipedia.org/wiki/Apache_Spark" target="_blank">spark</a></li>
-  <li>🐘 <a href="https://en.wikipedia.org/wiki/Hadoop" target="_blank">hadoop ecosystem</a></li>
-  <li>☁️ <a href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank">cloud based environments</a></li>
+  <li>🐘 <a href="https://en.wikipedia.org/wiki/Hadoop" target="_blank">hadoop</a></li>
+  <li>☁️ <a href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank">cloud</a></li>
 </ul>
 
-<!--
+  <li>📚 passionate and always studying more about:
+    <ul>
+      <li>🧮 <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank">math and statistics</a></li>
+      <li>💻 <a href="https://en.wikipedia.org/wiki/Compiler" target="_blank">compilers</a></li>
+
+
+  <li>💧 <a href="https://elixir-lang.org/" target="_blank">elixir</a></li>
+
 <h2>🖤 i'm passionate about</h2>
 <ul>
   <li>🐈‍⬛ cats, dogs and corvids! 🐕</li>

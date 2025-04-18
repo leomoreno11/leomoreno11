@@ -68,11 +68,13 @@
       <li><a href="https://leomoreno11.github.io/resume/" target="_blank">github.io</a></li>
     </ul>
     
+<!--
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/LeonardoMoreno-9310/E5F1078CE707AA82?sharingId=48B8115A64A7D19E" target="_blank">
     <img width="150" src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/materials/microsoft-certified-associate-badge.png" alt="Microsoft Certified Associate Badge" />
   </a>
 </p>
+-->
 
 <p align="center"><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/black-to-green.png" alt="Footer Image" /></p>
 </samp>

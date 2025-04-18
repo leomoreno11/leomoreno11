@@ -59,7 +59,7 @@
     <ul>
       <li><a href="https://github.com/leomoreno11/aws_medallion_pipeline" target="_blank">aws_medallion_pipeline</a></li>
     </ul>
-  <li>🥷 Nimbus: my GEIGEIGEIST Totem stealth split keyboard
+  <li>🥷 Nimbus: my <a href="https://github.com/GEIGEIGEIST/TOTEM">TOTEM</a> stealth split keyboard
     <ul>
       <li><a href="https://github.com/leomoreno11/nimbus" target="_blank">nimbus</a></li>
     </ul>

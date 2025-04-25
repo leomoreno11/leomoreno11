@@ -55,17 +55,21 @@
 
 <h2>🔮 check out my repos</h2>
 <ul>
-  <li>☁️ AWS Snowflake + Airflow ETL process
+  <li><b>☁️ AWS Snowflake + Airflow ETL process</b>
     <ul>
-      <li><a href="https://github.com/leomoreno11/aws_medallion_pipeline" target="_blank">aws_medallion_pipeline</a></li>
+      <li><a href="https://github.com/leomoreno11/aws_medallion_pipeline" target="_blank">aws_medallion_pipeline</a> - this project implements an end-to-end data pipeline using airflow to extract data from the open brewery db api and store it in a snowflake-based data lake. the pipeline follows the medallion architecture (bronze, silver, and gold layers) and automates data ingestion, transformation, and aggregation for analytical insights.</li>
     </ul>
-  <li>🥷 Nimbus: my <a href="https://github.com/GEIGEIGEIST/TOTEM">TOTEM</a> stealth split keyboard
+  <li><b>🥷 Nimbus: my <a href="https://github.com/GEIGEIGEIST/TOTEM">TOTEM</a> stealth split keyboard</b>
     <ul>
-      <li><a href="https://github.com/leomoreno11/nimbus" target="_blank">nimbus</a></li>
+      <li><a href="https://github.com/leomoreno11/nimbus" target="_blank">nimbus</a> is my personal keyboard project. this keyboard will be modified and upgraded over the years </li>
     </ul>
-  <li>👨‍💻 My resume
+  <li><b>👨‍💻 My resume</b>
     <ul>
       <li><a href="https://leomoreno11.github.io/resume/" target="_blank">github.io</a></li>
+    </ul>
+  <li><b>📚 Exploratory and Fun projects</b>
+    <ul>
+      <li><a href="https://github.com/leomoreno11/build_your_own_x" target="_blank">build-your-own-x</a> is my personal repo for doing projects that i find fun or from topics that i want to learn more from (or both) </li>
     </ul>
     
 <!--

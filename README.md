@@ -11,7 +11,6 @@
 <ul>
   <li>🇧🇷 brazilian (<abbr title="Portuguese - Brazil">pt-br</abbr> / <abbr title="English">en</abbr>) | born and based in <a href="https://en.wikipedia.org/wiki/S%C3%A3o_Paulo" target="_blank">São Paulo</a></li>
   <li>🧛‍♂️ pronouns: <i>he/him</i></li>
-  <li>❎ working for <a href="https://www.pluxeegroup.com/who-we-are/" target="_blank">Pluxee</a> as a Senior Data Engineer</li>
     </ul>
   </li>
 </ul>
@@ -51,6 +50,9 @@
   <li>⛈️ rain-and-cold combo</li>
   <li>🏃‍♂️ street running</li>
 </ul>
+
+
+  <li>❎ working for <a href="https://www.pluxeegroup.com/who-we-are/" target="_blank">Pluxee</a> as a Senior Data Engineer</li>
 -->
 
 <h2>🔮 check out my repos</h2>

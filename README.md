@@ -54,7 +54,7 @@
 
 
   <li>❎ working for <a href="https://www.pluxeegroup.com/who-we-are/" target="_blank">Pluxee</a> as a Senior Data Engineer</li>
--->
+
 
 <h2>🔮 check out my repos</h2>
 <ul>
@@ -74,7 +74,7 @@
     <ul>
       <li><a href="https://github.com/leomoreno11/build_your_own_x" target="_blank">build-your-own-x</a> is my personal repo for doing projects that i find fun or from topics that i want to learn more from (or both) </li>
     </ul>
-    
+-->
 <!--
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/LeonardoMoreno-9310/E5F1078CE707AA82?sharingId=48B8115A64A7D19E" target="_blank">

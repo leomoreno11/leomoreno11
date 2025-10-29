@@ -1,7 +1,5 @@
 <samp>
 <div align="center">
-  <p><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/green-to-black.png" alt="Header Image" /></p>
-  <p><img width="320" alt="Matthew receiving a head rub" src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/materials/crow.gif" /></p>
   <h3>hey there, I'm Leo! 👋</h3>
   <p>i'm a computer science, statistics, and (astro)physics lover 🌌</p>
   <blockquote><i>“computer science is no more about computers than astronomy is about telescopes” - edsger dijkstra</i></blockquote>
@@ -15,7 +13,7 @@
     </ul>
   </li>
 </ul>
-
+</samp>
 <!--
 <h2>💻 technologies in my toolbox</h2>
 <ul>
@@ -81,7 +79,12 @@
     <img width="150" src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/materials/microsoft-certified-associate-badge.png" alt="Microsoft Certified Associate Badge" />
   </a>
 </p>
+
+  <p><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/green-to-black.png" alt="Header Image" /></p>
+  <p><img width="320" alt="Matthew receiving a head rub" src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/materials/crow.gif" /></p>
+
+  <p align="center"><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/black-to-green.png" alt="Footer Image" /></p>
+</samp>
 -->
 
-<p align="center"><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/black-to-green.png" alt="Footer Image" /></p>
-</samp>
+

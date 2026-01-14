@@ -9,7 +9,6 @@
 <ul>
   <li>🇧🇷 brazilian (<abbr title="Portuguese - Brazil">pt-br</abbr> / <abbr title="English">en</abbr>) | born and based in <a href="https://en.wikipedia.org/wiki/S%C3%A3o_Paulo" target="_blank">São Paulo</a></li>
   <li>🧛‍♂️ pronouns: <i>he/him</i></li>
-  <li> :godmode: working for <a href="https://www.factored.ai" target="_blank">Factored</a> as a Senior Data Engineer</li>
     </ul>
   </li>
 </ul>
